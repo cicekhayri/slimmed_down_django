@@ -1,0 +1,1 @@
+# Slimmed Down Django Project
